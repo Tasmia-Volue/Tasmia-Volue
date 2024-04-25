@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tasmiazerin1128&label=Profile%20views&color=0e75b6&style=flat" alt="tasmiazerin1128" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<img align="right" alt="GIF" height="250px" src="https://i.gifer.com/3AyY.gif" />
+<img align="right" alt="GIF" height="250px" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
 
 - 🌱 I’m currently learning **Front end & Back end frameworks**
 
