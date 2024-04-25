@@ -45,8 +45,3 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
  </p>
 </p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasmiazerin1128&show_icons=true&locale=en&layout=compact" alt="tasmiazerin1128" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tasmiazerin1128&show_icons=true&locale=en" alt="tasmiazerin1128" /></p>
