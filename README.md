@@ -10,11 +10,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" alt="GIF" height="250px" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
 
-- 🌱 I’m currently learning **Front end & Back end frameworks**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://tasmiazerin1128.github.io/](https://tasmiazerin1128.github.io/)
 
-- 💬 Ask me about **angular, unity**
+- 💬 Ask me about **Front-End, unity**
 
 - 📫 How to reach me **tasmia.zerin.60@gmail.com**
 
